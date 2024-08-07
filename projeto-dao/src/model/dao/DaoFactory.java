@@ -1,4 +1,4 @@
-//classe auxiliar com operções staticas para instânciar os meus daos
+//classe auxiliar com operações staticas para instânciar os meus daos
 package model.dao;
 
 import db.DB;

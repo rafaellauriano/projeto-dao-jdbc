@@ -28,7 +28,7 @@ public class DB {
 		return conn;
 	}
 	
-	//implementação para fechar uma conecção
+	//implementação para fechar uma conexão
 	public static void closeConnection() {
 		if(conn != null) {
 			try {
